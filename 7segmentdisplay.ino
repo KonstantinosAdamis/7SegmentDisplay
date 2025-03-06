@@ -6,7 +6,6 @@ int e = 6;
 int f = 7;
 int g = 8;
 
-
 void setup() {
   // put your setup code here, to run once:
 
